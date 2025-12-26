@@ -1,2 +1,4 @@
 # GithubLeraning
-เเจ๋ว
+C = "function Login"
+
+print(c)
